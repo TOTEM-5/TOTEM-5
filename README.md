@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+<img width="50%"
+src="https://github.com/TOTEM-5/TOTEM-5/blob/87894018c90683d5702c1687a2e1679ec9543a13/Untitled158_20261011173841-fotor-bg-remover-2026101123953.png" />
+<p align="center">
 
-<!--
-**TOTEM-5/TOTEM-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+<code style="color : PURPLE">what brings you here?</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+ <p align="center">
+ <a href="https://social-5.straw.page/">strawpage
+
+
+
